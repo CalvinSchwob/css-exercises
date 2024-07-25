@@ -4,11 +4,11 @@
     font-family: Helvetica, "Times New Roman" sans-serif;
 }
 
-first_button {
+.first_button {
     background-color: #000000;
     color: white;
 }
 
-second_button {
+.second_button {
     background-color: yellow;
 }
